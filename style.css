@@ -126,11 +126,6 @@ footer {
     border-top: 0.15em solid blue;
     }
 	
-#res {
-  overflow:auto;
-  width:100%;
-  border:5px, #778899;
-}
 	
 .img1{
 	display: block;
